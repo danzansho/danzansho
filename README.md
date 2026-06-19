@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Danzan 👋
 
-<!--
-**danzansho/danzansho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 20-year-old developer and indie hacker based in Siberia. I focus on building lightweight open-source tools, automating daily workflows, and optimizing Personal Knowledge Management (PKM) systems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
+- **Backend:** Python (aiogram, asyncio)
+- **AI Integrations:** Groq SDK, Gemini API, Whisper, Llama
+- **Workflows:** Git, VS Code, Obsidian (Zettelkasten)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Obsidian Voice-to-Zettelkasten Bot](https://github.com/danzansho/obsidian-voice-bot) - A frictionless Telegram bot that transcribes your voice notes and saves them directly to your local Obsidian vault.
+
+## 📫 Get in Touch
+- Telegram: [https://t.me/ierengo]
+- Email: danzan.shoinzhonov@gmail.com
