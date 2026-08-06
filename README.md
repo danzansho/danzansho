@@ -8,6 +8,7 @@ I'm a 20-year-old developer and indie hacker based in Siberia. I focus on buildi
 - **Workflows:** Git, VS Code, Obsidian (Zettelkasten)
 
 ## 🚀 Featured Projects
+- [pdf-to-anki-web](https://github.com/danzansho/pdf-to-anki-web) - turns lecture PDFs into Anki cloze decks in 30 seconds
 - [Obsidian Voice-to-Zettelkasten Bot](https://github.com/danzansho/obsidian-voice-bot) - A frictionless Telegram bot that transcribes your voice notes and saves them directly to your local Obsidian vault.
 
 ## 📫 Get in Touch
